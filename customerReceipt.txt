@@ -1,0 +1,2 @@
+DateTime            | Item | Qty | Price
+01-03-2017 05:48 PM |  Cheeseburger | $4.58  |  01-03-2017 05:48 PM |  Double CheeseBurger | $2.99  |  01-03-2017 05:48 PM |  Small Shake | $5.78  |  01-03-2017 05:48 PM |  Ice Cream Cone | $2.58  |  
